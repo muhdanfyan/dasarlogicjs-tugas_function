@@ -162,6 +162,8 @@ const keluar = function() {
    - Jangan menggunakan nama variabel dan fungsi yang mirip
 8. **Buat Repo dan Video Penjelasan cara kerja kodingan, dan cara kerja aplikasi yang sudah dibuat**:
    - Jelaskan semua bahan yang dipelajari dalam kodingan seperti function yang digunakan, scope variabel, dan refactoring, rekursif, dan perbedaan declaration dan expression lalu tampilkan bagaiama itu berguna dalam aplikasi yang dibuat..
+9. **Ketika selesai, silahkan memberikan link repo github, jelaskan pemaparan tersebut di hadapan mentor dan akademik**
+   - Menghadap ke mentor dan akademik, serta jelaskan cara kerja sistem. Jangan lupa untuk menguji kode Anda secara menyeluruh. 
 
 
 ---
